@@ -11,3 +11,7 @@
 ## flyway数据库脚本管理
 
 [flyway数据库脚本管理](springboot-flyway)
+
+## eventbus消息订阅发布
+
+[eventbus消息订阅发布](springboot-eventbus)
