@@ -7,3 +7,7 @@
 ## spel自定义注解
 
 [spel自定义注解](springboot-aop-spel)
+
+## flyway数据库脚本管理
+
+[flyway数据库脚本管理](springboot-flyway)
