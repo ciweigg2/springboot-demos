@@ -1,0 +1,1 @@
+ALTER TABLE logging_service_details add phone varchar(15)  NOT NULL COMMENT '电话' ;
