@@ -14,6 +14,7 @@
 		<module>springboot-abstract-strategy</module>
 		<module>springboot-aop-spel</module>
 		<module>springboot-flyway</module>
+		<module>springboot-redis</module>
 	</modules>
 
 </project>

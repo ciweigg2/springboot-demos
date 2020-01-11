@@ -15,3 +15,7 @@
 ## eventbus消息订阅发布
 
 [eventbus消息订阅发布](springboot-eventbus)
+
+## redis工具类使用
+
+[redis工具类使用](springboot-redis)
