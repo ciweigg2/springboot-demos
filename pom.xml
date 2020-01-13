@@ -15,6 +15,7 @@
 		<module>springboot-aop-spel</module>
 		<module>springboot-flyway</module>
 		<module>springboot-redis</module>
+		<module>springboot-es-transport</module>
 	</modules>
 
 </project>
