@@ -23,3 +23,7 @@
 ## es中的transport常用操作
 
 [es中的transport常用操作](springboot-es-transport)
+
+## redis解决重复提交
+
+[redis解决重复提交](springboot-redis-repeat-limiting)

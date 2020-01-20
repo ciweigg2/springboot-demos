@@ -16,6 +16,7 @@
 		<module>springboot-flyway</module>
 		<module>springboot-redis</module>
 		<module>springboot-es-transport</module>
+		<module>springboot-redis-repeat-limiting</module>
 	</modules>
 
 </project>
